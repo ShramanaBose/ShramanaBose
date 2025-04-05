@@ -2,9 +2,9 @@
 - 👀 Programming languages:Java,Python,C,JavaScript
 - Database-MySql,DBMS
 - Web Development-Html,CSS,Js,ReactJs,BootStrap
-- 🌱 I’m currently working on React...
+- 🌱 I’m currently working on React.js...
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+
 
 <!---
 ShramanaBose/ShramanaBose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
